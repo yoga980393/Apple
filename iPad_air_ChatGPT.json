@@ -1,0 +1,80 @@
+{
+    "product": {
+        "name": "iPad Air",
+        "url": "https://www.apple.com/tw/shop/buy-ipad/ipad-air",
+        "colors": [
+            {
+                "name": "space_gray",
+                "image_url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-space-gray"
+            },
+            {
+                "name": "blue",
+                "image_url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-blue"
+            },
+            {
+                "name": "pink",
+                "image_url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-pink"
+            },
+            {
+                "name": "purple",
+                "image_url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-purple"
+            },
+            {
+                "name": "starlight",
+                "image_url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-starlight"
+            }
+        ],
+        "variants": [
+            {
+                "id": 1,
+                "name": "iPad Air (64GB, Wi-Fi)",
+                "storage": "64GB",
+                "connectivity": "Wi-Fi",
+                "price": 19900,
+                "currency": "TWD",
+                "availability": "in_stock"
+            },
+            {
+                "id": 2,
+                "name": "iPad Air (256GB, Wi-Fi)",
+                "storage": "256GB",
+                "connectivity": "Wi-Fi",
+                "price": 24900,
+                "currency": "TWD",
+                "availability": "in_stock"
+            },
+            {
+                "id": 3,
+                "name": "iPad Air (64GB, Wi-Fi + Cellular)",
+                "storage": "64GB",
+                "connectivity": "Wi-Fi + Cellular",
+                "price": 24900,
+                "currency": "TWD",
+                "availability": "in_stock"
+            },
+            {
+                "id": 4,
+                "name": "iPad Air (256GB, Wi-Fi + Cellular)",
+                "storage": "256GB",
+                "connectivity": "Wi-Fi + Cellular",
+                "price": 29900,
+                "currency": "TWD",
+                "availability": "in_stock"
+            }
+        ],
+        "features": [
+            "10.9 吋 Retina 顯示器",
+            "A14 Bionic 晶片",
+            "Touch ID",
+            "支援 Apple Pencil (第二代)",
+            "支援 Magic Keyboard 和 Smart Keyboard Folio"
+        ],
+        "accessories": [
+            "Apple Pencil (第二代)",
+            "Magic Keyboard",
+            "Smart Keyboard Folio",
+            "Smart Folio",
+            "USB-C 數位AV 多功能轉接器"
+        ]
+    }
+}
