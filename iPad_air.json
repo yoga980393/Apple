@@ -44,7 +44,7 @@
         "color":"太空灰",
         "storage":"256GB",
         "network":"Wi-Fi",
-        "price":19900,
+        "price":24900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-space-gray-wifi"
     },
     {
@@ -52,7 +52,7 @@
         "color":"藍色",
         "storage":"256GB",
         "network":"Wi-Fi",
-        "price":19900,
+        "price":24900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-blue-wifi"
     },
     {
@@ -60,7 +60,7 @@
         "color":"粉紅色",
         "storage":"256GB",
         "network":"Wi-Fi",
-        "price":19900,
+        "price":24900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-pink-wifi"
     },
     {
@@ -68,7 +68,7 @@
         "color":"紫色",
         "storage":"256GB",
         "network":"Wi-Fi",
-        "price":19900,
+        "price":24900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-purple-wifi"
     },
     {
@@ -76,7 +76,7 @@
         "color":"星光色",
         "storage":"256GB",
         "network":"Wi-Fi",
-        "price":19900,
+        "price":24900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-starlight-wifi"
     },
     {
@@ -84,7 +84,7 @@
         "color":"太空灰",
         "storage":"64GB",
         "network":"Wi-Fi + 行動網路",
-        "price":19900,
+        "price":24900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-space-gray-wifi"
     },
     {
@@ -92,7 +92,7 @@
         "color":"藍色",
         "storage":"64GB",
         "network":"Wi-Fi + 行動網路",
-        "price":19900,
+        "price":24900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-blue-wifi"
     },
     {
@@ -100,7 +100,7 @@
         "color":"粉紅色",
         "storage":"64GB",
         "network":"Wi-Fi + 行動網路",
-        "price":19900,
+        "price":24900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-pink-wifi"
     },
     {
@@ -108,7 +108,7 @@
         "color":"紫色",
         "storage":"64GB",
         "network":"Wi-Fi + 行動網路",
-        "price":19900,
+        "price":24900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-purple-wifi"
     },
     {
@@ -116,7 +116,7 @@
         "color":"星光色",
         "storage":"64GB",
         "network":"Wi-Fi + 行動網路",
-        "price":19900,
+        "price":24900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-starlight-wifi"
     },
     {
@@ -124,7 +124,7 @@
         "color":"太空灰",
         "storage":"256GB",
         "network":"Wi-Fi + 行動網路",
-        "price":19900,
+        "price":29900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-space-gray-wifi"
     },
     {
@@ -132,7 +132,7 @@
         "color":"藍色",
         "storage":"256GB",
         "network":"Wi-Fi + 行動網路",
-        "price":19900,
+        "price":29900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-blue-wifi"
     },
     {
@@ -140,7 +140,7 @@
         "color":"粉紅色",
         "storage":"256GB",
         "network":"Wi-Fi + 行動網路",
-        "price":19900,
+        "price":29900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-pink-wifi"
     },
     {
@@ -148,7 +148,7 @@
         "color":"紫色",
         "storage":"256GB",
         "network":"Wi-Fi + 行動網路",
-        "price":19900,
+        "price":29900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-purple-wifi"
     },
     {
@@ -156,7 +156,7 @@
         "color":"星光色",
         "storage":"256GB",
         "network":"Wi-Fi + 行動網路",
-        "price":19900,
+        "price":29900,
         "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-air-storage-select-202207-starlight-wifi"
     }
 ]
